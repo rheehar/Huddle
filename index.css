@@ -1,0 +1,237 @@
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poppins', sans-serif;
+}
+.navbar{
+    position: relative;
+    padding: 40px 52px;
+}
+
+.action-btn {
+    border: 1px solid hsl(322, 100%, 66%);
+    position: absolute;
+    left: 73.125rem;
+    top: 46px;
+    padding: 0.3125rem 1.25rem;
+    border-radius: 1.25rem;
+    text-decoration: none;
+    color: hsl(322, 100%, 66%);
+}
+
+.main-section {
+    width: 100%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin: 20px 0;
+    position: relative;
+}
+
+.main-section h1 {
+    margin: 0 auto;
+    width: 70%;
+    text-align: center;
+    padding-bottom: 20px;
+    font-size:40px;
+    color: hsl(192, 100%, 9%);
+}
+
+.main-section p {
+    width: 35%;
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.action-btn1 {
+    width: 15%;
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid hsl(322, 100%, 66%);
+    padding: 10px 30px;
+    border-radius: 20px;
+    background: hsl(322,100%,66%);
+    box-shadow: 0.1em 0.2em 0.4em rgba(0,37,46, 0.2);
+}
+
+.action-btn1 a {
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #fff;
+}
+
+.visual-section {
+    text-align: center;
+}
+
+.screen-mockups {
+    width: 900px;
+    height: 600px;
+}
+
+.visual-section h2 {
+    margin: 0;
+}
+
+.visual-section p {
+    margin: 0;
+    text-align: center;
+    color: hsl(192, 100%, 9%);
+}
+
+.visual-section h2 {
+    font-size: 50px;
+}
+
+.side-text1 {
+    position: relative;
+    width: 160px;
+    left: 290px;
+    text-align: left;
+    top: 65px;
+}
+
+.side-text2 {
+    position: relative;
+    width: 160px;
+    left: 800px;
+    bottom: 78px;
+    text-align: left;
+}
+
+.text-icon {
+    height: 35px;
+}
+
+.img-border {
+    width: 100%;
+}
+
+.grow-together {
+    width:30%;
+    height:30%;
+    float: right;
+}
+.inner-special {
+    width: 70%;
+    margin: 100px auto;
+}
+
+.cover {
+    height: 426px;
+    background: hsl(207, 100%, 98%);
+    padding: 45px;
+}
+.grow-together {
+    width: 45%;
+    float: right;
+    position: relative;
+    bottom: 70px;
+    left: 15%;
+}
+
+.flowing-conversation {
+    width: 45%;
+    float: left;
+    position: relative;
+    bottom: 70px;
+    right: 15%;
+}
+
+
+.inner-special h3 {
+    font-size: 40px;
+    text-transform: capitalize;
+}
+
+.lastSection h1{
+    margin: 0 auto;
+    width: 70%;
+    text-align: center;
+    padding-bottom: 20px;
+    font-size:40px;
+    color: hsl(192, 100%, 9%);
+}
+
+.lastSection {
+    width: 100%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin: 20px 0;
+    position: relative;
+}
+
+.main-footer {
+    background: hsl(192, 100%, 9%);
+    padding: 50px 100px;
+    position: relative;
+    color: #ffffff;
+}
+
+.inner-footer1 {
+    width: 30%;
+}
+.inner-footer2 {
+    position: absolute;
+    width: 30%;
+    right: 100px;
+    bottom: 120px;
+}
+
+.icon-desc {
+    padding-right: 20px;
+}
+
+.main-footer p {
+    line-height: 1.8;
+}
+
+.inner-footer2 h3 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.inner-footer2 input {
+    border: 0;
+    padding: 7px;
+    border-radius: 4px;
+    margin-top: 12px;
+}
+
+.action-btn2 {
+    border: 0;
+    padding: 6px 16px;
+    margin-left: 18px;
+    border-radius: 3px;
+    background: hsl(322, 100%, 66%);
+}
+
+.action-btn2 a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+    background: hsl(192, 100%, 9%);
+    margin:0;
+    color: #fff;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+.fab1 {
+    font-size: 25px;
+    padding-right: 18px;
+}
+
+.icons {
+    padding-top: 60px;
+}
